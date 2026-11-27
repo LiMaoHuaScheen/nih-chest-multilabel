@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.pt
+*.pth
+*.npy
+chest_data/
+output/
